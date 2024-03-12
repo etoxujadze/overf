@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "fonti";
+    src: url(Inter-VariableFont_slnt\,wght.ttf);
+}
+p {
+    font-family: "fonti";
+    width: 1171px;
+    height: 30px;
+    top: 18px;
+    left: 12px;
+    font-weight: 12px;
+    line-height: 14.52px;
+    color: #000000;
+
+}
+div {
+    width: 232px;
+    height: 297px;
+    top: 9px;
+    left: 10px;
+    border: 1px solid;
+    overflow-x: scroll;
+    color: #CCCCCC;
+    float: left;
+ }
+ .syra {
+    width: 560px;
+    height: 646.53px;
+    float: right;
+    margin-top: 0px;
+    left: 712px;
+ }
+ body {
+    width: 100%;
+    height: 832px;
+ }
